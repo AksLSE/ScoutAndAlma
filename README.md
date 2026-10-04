@@ -1,5 +1,7 @@
 # Scout and Alma
 
+**Live URL**: https://www.scoutandalma.com
+
 ## Project Overview
 
 Scout and Alma is a dual-sided higher education discovery and student recruitment platform engineered for universities, apprenticeship employers, and prospective candidates. The platform delivers two distinct, role-segregated applications from a shared workspace environment:
